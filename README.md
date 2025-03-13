@@ -1,2 +1,2 @@
-# qcentroid-solver-templates
-QCentroid templates to start implementing solvers in the platform for all providers
+# Solver template for IBM Cloud
+QCentroid template to start implementing a solvers using IBM Cloud
