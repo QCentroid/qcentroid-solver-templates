@@ -1,2 +1,2 @@
-# qcentroid-solver-templates
-QCentroid templates to start implementing solvers in the platform for all providers
+# QCentroid solver template for Classical CPU
+QCentroid template to start implementing a solver using classical CPUs
